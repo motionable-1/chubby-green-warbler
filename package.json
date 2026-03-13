@@ -21,7 +21,8 @@
     "gsap": "^3.13.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "remotion": "^4.0.414"
+    "remotion": "^4.0.414",
+    "style-loader": "^4.0.0"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^5.0.0",
@@ -41,7 +42,6 @@
     "postcss": "^8.5.0",
     "prettier": "3.6.0",
     "storybook": "^10.2.1",
-    "style-loader": "^4.0.0",
     "tailwindcss": "^4.1.11",
     "typescript": "5.8.2",
     "typescript-eslint": "^8.33.0",
